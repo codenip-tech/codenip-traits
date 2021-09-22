@@ -11,5 +11,6 @@
 
 ###> Other files and folders ###
 .vscode
+.php-cs-fixer.cache
 docker-compose.yml
 ###< Other files and folders ###
